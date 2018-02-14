@@ -1,2 +1,0 @@
-# osarpasar
-osarpasar
